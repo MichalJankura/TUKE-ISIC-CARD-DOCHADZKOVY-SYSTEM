@@ -1,5 +1,5 @@
 # PREZENČNÝ SYSTÉM TUKE
-Tento Python skript slúži na evidenciu prítomnosti študentov na prednáškach pomocou NFC kariet. Skript komunikuje 
+Tento Python skript slúži na evidenciu prítomnosti študentov na cvičeniach/prednáškach pomocou NFC čítačky kariet. Skript komunikuje 
 s NFC čítačkou a zapisuje prítomnosť do textového súboru typu CSV.
 # Required Hardware - Advanced Card Systems Ltd.
 - ACR122
@@ -8,6 +8,7 @@ s NFC čítačkou a zapisuje prítomnosť do textového súboru typu CSV.
 - S/N: RR1717-149064
 - [Advanced Card Systems Ltd.](https://www.acs.com)
 
+![shopping](https://github.com/user-attachments/assets/4d8ddd6a-6006-4f52-ba0c-9f3cff02cae1)
 
 You may need drivers for the ACR1252: : https://www.acs.com.hk/en/products/342/acr1252u-usb-nfcreader-iii-nfc-forum-certified-reader/
 You may have to put the tag directly on the reader, on some devices the waitforcard() function does not work properly
