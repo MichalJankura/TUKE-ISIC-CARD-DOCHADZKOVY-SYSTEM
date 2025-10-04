@@ -1,6 +1,6 @@
 # PREZENČNÝ SYSTÉM TUKE
 Tento Python skript slúži na evidenciu prítomnosti študentov na prednáškach pomocou NFC kariet. Skript komunikuje 
-s NFC čítačkou a zapisuje prítomnosť do textového súboru typu CSC.
+s NFC čítačkou a zapisuje prítomnosť do textového súboru typu CSV.
 # Required Hardware - Advanced Card Systems Ltd.
 - ACR122
 - P/N: ACR122U-A9
